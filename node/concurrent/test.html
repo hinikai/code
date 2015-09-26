@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <script type="text/javascript" src="http://apps.bdimg.com/libs/jquery/2.1.1/jquery.min.js"></script>
+    <title>node、php并发测试</title>
+
+</head>
+
+<body>
+
+    <div id="map"></div>
+
+</body>
+
+</html>
+
+<script type="text/javascript">
+    for (var i = 0; i < 20; i++) {
+        $.ajax({
+            //url: "http://127.0.0.1:4000"
+            url: "test.php"
+        });
+    }
+</script>
+
+
