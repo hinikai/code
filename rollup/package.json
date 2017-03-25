@@ -1,0 +1,14 @@
+{
+  "name": "testrollup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "rollup --format umd --name mapv -- src/app.js > build/app.js "
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^0.25.4"
+  }
+}
