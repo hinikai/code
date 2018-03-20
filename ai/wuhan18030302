@@ -1,0 +1,1369 @@
+{
+	"errno": 0,
+	"msg": "success",
+	"data": {
+		"log_id": "8900942566087607000",
+		"direction": 0,
+		"words_result_num": 97,
+		"words_result": [
+			{
+				"probability": {
+					"variance": 0.000086,
+					"average": 0.995877,
+					"min": 0.972622
+				},
+				"location": {
+					"width": 310,
+					"top": 35,
+					"height": 21,
+					"left": 312
+				},
+				"words": "2018中国·武汉速度赛马公开赛年度开锣赛"
+			},
+			{
+				"probability": {
+					"variance": 0,
+					"average": 0.999901,
+					"min": 0.999901
+				},
+				"location": {
+					"width": 42,
+					"top": 44,
+					"height": 47,
+					"left": 49
+				},
+				"words": "2"
+			},
+			{
+				"probability": {
+					"variance": 0.000001,
+					"average": 0.998666,
+					"min": 0.997571
+				},
+				"location": {
+					"width": 29,
+					"top": 52,
+					"height": 15,
+					"left": 193
+				},
+				"words": "沙道"
+			},
+			{
+				"probability": {
+					"variance": 0.018647,
+					"average": 0.859371,
+					"min": 0.507591
+				},
+				"location": {
+					"width": 377,
+					"top": 58,
+					"height": 18,
+					"left": 280
+				},
+				"words": "Season 0 pen ng R aceday of2018 C hna.W uhan 0 pen h orse Racing"
+			},
+			{
+				"probability": {
+					"variance": 0.024081,
+					"average": 0.912996,
+					"min": 0.503817
+				},
+				"location": {
+					"width": 104,
+					"top": 88,
+					"height": 15,
+					"left": 342
+				},
+				"words": "评分 Rathe:80460"
+			},
+			{
+				"probability": {
+					"variance": 0.019166,
+					"average": 0.750892,
+					"min": 0.617139
+				},
+				"location": {
+					"width": 27,
+					"top": 90,
+					"height": 10,
+					"left": 523
+				},
+				"words": "10M"
+			},
+			{
+				"probability": {
+					"variance": 0.00106,
+					"average": 0.972734,
+					"min": 0.908481
+				},
+				"location": {
+					"width": 43,
+					"top": 105,
+					"height": 15,
+					"left": 177
+				},
+				"words": "14300"
+			},
+			{
+				"probability": {
+					"variance": 0.009021,
+					"average": 0.925934,
+					"min": 0.757819
+				},
+				"location": {
+					"width": 48,
+					"top": 105,
+					"height": 15,
+					"left": 289
+				},
+				"words": "奖金Pre"
+			},
+			{
+				"probability": {
+					"variance": 0.01831,
+					"average": 0.925704,
+					"min": 0.647353
+				},
+				"location": {
+					"width": 60,
+					"top": 106,
+					"height": 13,
+					"left": 363
+				},
+				"words": "第一名1ste50"
+			},
+			{
+				"probability": {
+					"variance": 0.000473,
+					"average": 0.989125,
+					"min": 0.897692
+				},
+				"location": {
+					"width": 285,
+					"top": 120,
+					"height": 17,
+					"left": 362
+				},
+				"words": "第三名3th:15%75000第四名4th:10%50000"
+			},
+			{
+				"probability": {
+					"variance": 0,
+					"average": 0.99995,
+					"min": 0.999919
+				},
+				"location": {
+					"width": 41,
+					"top": 141,
+					"height": 15,
+					"left": 178
+				},
+				"words": "非纯血"
+			},
+			{
+				"probability": {
+					"variance": 0.00006,
+					"average": 0.994838,
+					"min": 0.976581
+				},
+				"location": {
+					"width": 97,
+					"top": 139,
+					"height": 18,
+					"left": 443
+				},
+				"words": "负磅(公斤)Wtkg)"
+			},
+			{
+				"probability": {
+					"variance": 0,
+					"average": 1,
+					"min": 1
+				},
+				"location": {
+					"width": 97,
+					"top": 155,
+					"height": 15,
+					"left": 151
+				},
+				"words": "non-thoroughbred"
+			},
+			{
+				"probability": {
+					"variance": 0.000033,
+					"average": 0.994377,
+					"min": 0.986529
+				},
+				"location": {
+					"width": 47,
+					"top": 157,
+					"height": 14,
+					"left": 471
+				},
+				"words": "平分R"
+			},
+			{
+				"probability": {
+					"variance": 0.001164,
+					"average": 0.979703,
+					"min": 0.920611
+				},
+				"location": {
+					"width": 57,
+					"top": 190,
+					"height": 18,
+					"left": 136
+				},
+				"words": "乌孙赤兔"
+			},
+			{
+				"probability": {
+					"variance": 0.000002,
+					"average": 0.975683,
+					"min": 0.974373
+				},
+				"location": {
+					"width": 37,
+					"top": 193,
+					"height": 13,
+					"left": 300
+				},
+				"words": "W H96"
+			},
+			{
+				"probability": {
+					"variance": 0.01043,
+					"average": 0.92631,
+					"min": 0.781877
+				},
+				"location": {
+					"width": 40,
+					"top": 191,
+					"height": 17,
+					"left": 569
+				},
+				"words": "韦大冲"
+			},
+			{
+				"probability": {
+					"variance": 0.005057,
+					"average": 0.914758,
+					"min": 0.822453
+				},
+				"location": {
+					"width": 147,
+					"top": 207,
+					"height": 19,
+					"left": 485
+				},
+				"words": "78 W EIDACHONG"
+			},
+			{
+				"probability": {
+					"variance": 0.035008,
+					"average": 0.869745,
+					"min": 0.551107
+				},
+				"location": {
+					"width": 108,
+					"top": 225,
+					"height": 16,
+					"left": 136
+				},
+				"words": "新疆伊犁 xn jiangyin"
+			},
+			{
+				"probability": {
+					"variance": 0.031752,
+					"average": 0.718134,
+					"min": 0.539942
+				},
+				"location": {
+					"width": 29,
+					"top": 248,
+					"height": 10,
+					"left": 71
+				},
+				"words": "4 H96"
+			},
+			{
+				"probability": {
+					"variance": 0.00919,
+					"average": 0.932928,
+					"min": 0.70316
+				},
+				"location": {
+					"width": 135,
+					"top": 246,
+					"height": 16,
+					"left": 135
+				},
+				"words": "往绩 Starts:9(3-2-1-1)"
+			},
+			{
+				"probability": {
+					"variance": 0.011384,
+					"average": 0.935099,
+					"min": 0.63295
+				},
+				"location": {
+					"width": 176,
+					"top": 246,
+					"height": 16,
+					"left": 417
+				},
+				"words": "奖金 Prie M oney RM B72500.0"
+			},
+			{
+				"probability": {
+					"variance": 0.000005,
+					"average": 0.998498,
+					"min": 0.994336
+				},
+				"location": {
+					"width": 62,
+					"top": 264,
+					"height": 14,
+					"left": 206
+				},
+				"words": "伊犁种马场"
+			},
+			{
+				"probability": {
+					"variance": 0.000043,
+					"average": 0.996005,
+					"min": 0.984626
+				},
+				"location": {
+					"width": 56,
+					"top": 296,
+					"height": 17,
+					"left": 136
+				},
+				"words": "乌孙抱月"
+			},
+			{
+				"probability": {
+					"variance": 0.0093,
+					"average": 0.905565,
+					"min": 0.722267
+				},
+				"location": {
+					"width": 98,
+					"top": 312,
+					"height": 16,
+					"left": 135
+				},
+				"words": "W u Sun bao yue"
+			},
+			{
+				"probability": {
+					"variance": 0.038931,
+					"average": 0.847241,
+					"min": 0.493572
+				},
+				"location": {
+					"width": 110,
+					"top": 331,
+					"height": 18,
+					"left": 135
+				},
+				"words": "新疆伊犁 xi jang il"
+			},
+			{
+				"probability": {
+					"variance": 0.000418,
+					"average": 0.984352,
+					"min": 0.929924
+				},
+				"location": {
+					"width": 132,
+					"top": 353,
+					"height": 15,
+					"left": 136
+				},
+				"words": "往绩 Starts:9(3-1-4-1)"
+			},
+			{
+				"probability": {
+					"variance": 0.002438,
+					"average": 0.967513,
+					"min": 0.848845
+				},
+				"location": {
+					"width": 175,
+					"top": 350,
+					"height": 19,
+					"left": 417
+				},
+				"words": "奖金 Prize M oney RM B835000"
+			},
+			{
+				"probability": {
+					"variance": 0,
+					"average": 0.999796,
+					"min": 0.9997
+				},
+				"location": {
+					"width": 29,
+					"top": 369,
+					"height": 16,
+					"left": 135
+				},
+				"words": "马主"
+			},
+			{
+				"probability": {
+					"variance": 0,
+					"average": 0.979648,
+					"min": 0.979648
+				},
+				"location": {
+					"width": 58,
+					"top": 400,
+					"height": 58,
+					"left": 65
+				},
+				"words": "A"
+			},
+			{
+				"probability": {
+					"variance": 0.041811,
+					"average": 0.876609,
+					"min": 0.467985
+				},
+				"location": {
+					"width": 85,
+					"top": 421,
+					"height": 11,
+					"left": 136
+				},
+				"words": "w u Sun fei u"
+			},
+			{
+				"probability": {
+					"variance": 0.005822,
+					"average": 0.910929,
+					"min": 0.834628
+				},
+				"location": {
+					"width": 43,
+					"top": 422,
+					"height": 15,
+					"left": 567
+				},
+				"words": "L Sheng"
+			},
+			{
+				"probability": {
+					"variance": 0.020777,
+					"average": 0.89768,
+					"min": 0.690228
+				},
+				"location": {
+					"width": 109,
+					"top": 439,
+					"height": 19,
+					"left": 137
+				},
+				"words": "新疆伊犁 xijing ihi"
+			},
+			{
+				"probability": {
+					"variance": 0.013942,
+					"average": 0.914751,
+					"min": 0.747771
+				},
+				"location": {
+					"width": 35,
+					"top": 439,
+					"height": 16,
+					"left": 473
+				},
+				"words": "公ma"
+			},
+			{
+				"probability": {
+					"variance": 0.007586,
+					"average": 0.749058,
+					"min": 0.661961
+				},
+				"location": {
+					"width": 63,
+					"top": 440,
+					"height": 15,
+					"left": 560
+				},
+				"words": "栗 Chestnut"
+			},
+			{
+				"probability": {
+					"variance": 0.002448,
+					"average": 0.973948,
+					"min": 0.792516
+				},
+				"location": {
+					"width": 132,
+					"top": 459,
+					"height": 16,
+					"left": 136
+				},
+				"words": "往绩Srts:82-1-3-1)"
+			},
+			{
+				"probability": {
+					"variance": 0.00419,
+					"average": 0.967104,
+					"min": 0.78194
+				},
+				"location": {
+					"width": 175,
+					"top": 460,
+					"height": 15,
+					"left": 417
+				},
+				"words": "奖金 Prize M oney RM B570000"
+			},
+			{
+				"probability": {
+					"variance": 0,
+					"average": 0.932542,
+					"min": 0.932328
+				},
+				"location": {
+					"width": 38,
+					"top": 510,
+					"height": 15,
+					"left": 300
+				},
+				"words": "W H64"
+			},
+			{
+				"probability": {
+					"variance": 0.016312,
+					"average": 0.92879,
+					"min": 0.646844
+				},
+				"location": {
+					"width": 62,
+					"top": 545,
+					"height": 16,
+					"left": 137
+				},
+				"words": "中国Chia"
+			},
+			{
+				"probability": {
+					"variance": 0.001156,
+					"average": 0.86989,
+					"min": 0.835887
+				},
+				"location": {
+					"width": 55,
+					"top": 548,
+					"height": 11,
+					"left": 560
+				},
+				"words": "栗 Chestnu"
+			},
+			{
+				"probability": {
+					"variance": 0.000001,
+					"average": 0.999187,
+					"min": 0.998457
+				},
+				"location": {
+					"width": 30,
+					"top": 582,
+					"height": 17,
+					"left": 136
+				},
+				"words": "马主"
+			},
+			{
+				"probability": {
+					"variance": 0.000001,
+					"average": 0.999343,
+					"min": 0.998265
+				},
+				"location": {
+					"width": 41,
+					"top": 582,
+					"height": 16,
+					"left": 206
+				},
+				"words": "马利克"
+			},
+			{
+				"probability": {
+					"variance": 0,
+					"average": 0.847241,
+					"min": 0.847241
+				},
+				"location": {
+					"width": 58,
+					"top": 613,
+					"height": 58,
+					"left": 65
+				},
+				"words": "A"
+			},
+			{
+				"probability": {
+					"variance": 0.000001,
+					"average": 0.998749,
+					"min": 0.997908
+				},
+				"location": {
+					"width": 31,
+					"top": 617,
+					"height": 17,
+					"left": 135
+				},
+				"words": "苏俊"
+			},
+			{
+				"probability": {
+					"variance": 0,
+					"average": 0.999891,
+					"min": 0.999569
+				},
+				"location": {
+					"width": 53,
+					"top": 617,
+					"height": 16,
+					"left": 562
+				},
+				"words": "布德扎布"
+			},
+			{
+				"probability": {
+					"variance": 0.009692,
+					"average": 0.882315,
+					"min": 0.783869
+				},
+				"location": {
+					"width": 41,
+					"top": 633,
+					"height": 15,
+					"left": 135
+				},
+				"words": "Su jun"
+			},
+			{
+				"probability": {
+					"variance": 0.000059,
+					"average": 0.696734,
+					"min": 0.689038
+				},
+				"location": {
+					"width": 32,
+					"top": 636,
+					"height": 11,
+					"left": 400
+				},
+				"words": "X Lin"
+			},
+			{
+				"probability": {
+					"variance": 0.035981,
+					"average": 0.790121,
+					"min": 0.504262
+				},
+				"location": {
+					"width": 64,
+					"top": 634,
+					"height": 15,
+					"left": 553
+				},
+				"words": "Bu D e Zha Bl"
+			},
+			{
+				"probability": {
+					"variance": 0,
+					"average": 0.618531,
+					"min": 0.618531
+				},
+				"location": {
+					"width": 28,
+					"top": 675,
+					"height": 10,
+					"left": 72
+				},
+				"words": "AH71"
+			},
+			{
+				"probability": {
+					"variance": 0.00214,
+					"average": 0.968332,
+					"min": 0.846384
+				},
+				"location": {
+					"width": 132,
+					"top": 672,
+					"height": 16,
+					"left": 136
+				},
+				"words": "往绩 Starts:9(1-1-2-3)"
+			},
+			{
+				"probability": {
+					"variance": 0.011337,
+					"average": 0.945061,
+					"min": 0.59358
+				},
+				"location": {
+					"width": 179,
+					"top": 671,
+					"height": 18,
+					"left": 414
+				},
+				"words": "奖金 Prize M oney RM B42500.0"
+			},
+			{
+				"probability": {
+					"variance": 0.000001,
+					"average": 0.999109,
+					"min": 0.997998
+				},
+				"location": {
+					"width": 40,
+					"top": 688,
+					"height": 17,
+					"left": 205
+				},
+				"words": "哈拉提"
+			},
+			{
+				"probability": {
+					"variance": 0.033332,
+					"average": 0.908569,
+					"min": 0.543427
+				},
+				"location": {
+					"width": 138,
+					"top": 721,
+					"height": 23,
+					"left": 44
+				},
+				"words": "6●普朗克"
+			},
+			{
+				"probability": {
+					"variance": 0,
+					"average": 0.99941,
+					"min": 0.999103
+				},
+				"location": {
+					"width": 41,
+					"top": 724,
+					"height": 16,
+					"left": 568
+				},
+				"words": "姚文树"
+			},
+			{
+				"probability": {
+					"variance": 0.003482,
+					"average": 0.934226,
+					"min": 0.875214
+				},
+				"location": {
+					"width": 68,
+					"top": 739,
+					"height": 16,
+					"left": 134
+				},
+				"words": "Pu Langke"
+			},
+			{
+				"probability": {
+					"variance": 0.021029,
+					"average": 0.567141,
+					"min": 0.422126
+				},
+				"location": {
+					"width": 39,
+					"top": 742,
+					"height": 14,
+					"left": 566
+				},
+				"words": "W sya"
+			},
+			{
+				"probability": {
+					"variance": 0.029371,
+					"average": 0.863425,
+					"min": 0.568887
+				},
+				"location": {
+					"width": 107,
+					"top": 759,
+					"height": 15,
+					"left": 137
+				},
+				"words": "新疆伊犁 xi rangy ili"
+			},
+			{
+				"probability": {
+					"variance": 0.029416,
+					"average": 0.878269,
+					"min": 0.635717
+				},
+				"location": {
+					"width": 32,
+					"top": 759,
+					"height": 15,
+					"left": 570
+				},
+				"words": "骝Ba"
+			},
+			{
+				"probability": {
+					"variance": 0.019821,
+					"average": 0.911828,
+					"min": 0.517617
+				},
+				"location": {
+					"width": 130,
+					"top": 778,
+					"height": 16,
+					"left": 136
+				},
+				"words": "往绩 Starts:60-20-1)"
+			},
+			{
+				"probability": {
+					"variance": 0.003375,
+					"average": 0.966146,
+					"min": 0.820348
+				},
+				"location": {
+					"width": 175,
+					"top": 779,
+					"height": 15,
+					"left": 418
+				},
+				"words": "奖金 Prize M oney RM B180000"
+			},
+			{
+				"probability": {
+					"variance": 0.000003,
+					"average": 0.998668,
+					"min": 0.996269
+				},
+				"location": {
+					"width": 41,
+					"top": 796,
+					"height": 17,
+					"left": 205
+				},
+				"words": "阿奴克"
+			},
+			{
+				"probability": {
+					"variance": 0.021323,
+					"average": 0.899644,
+					"min": 0.649245
+				},
+				"location": {
+					"width": 104,
+					"top": 829,
+					"height": 18,
+					"left": 78
+				},
+				"words": "●中国心"
+			},
+			{
+				"probability": {
+					"variance": 0.00021,
+					"average": 0.967581,
+					"min": 0.953085
+				},
+				"location": {
+					"width": 38,
+					"top": 830,
+					"height": 16,
+					"left": 300
+				},
+				"words": "W H72"
+			},
+			{
+				"probability": {
+					"variance": 0.000005,
+					"average": 0.998314,
+					"min": 0.995214
+				},
+				"location": {
+					"width": 42,
+					"top": 830,
+					"height": 17,
+					"left": 568
+				},
+				"words": "别力克"
+			},
+			{
+				"probability": {
+					"variance": 0.009627,
+					"average": 0.858965,
+					"min": 0.760847
+				},
+				"location": {
+					"width": 35,
+					"top": 850,
+					"height": 10,
+					"left": 158
+				},
+				"words": "ngg u"
+			},
+			{
+				"probability": {
+					"variance": 0.050902,
+					"average": 0.828442,
+					"min": 0.440478
+				},
+				"location": {
+					"width": 45,
+					"top": 849,
+					"height": 14,
+					"left": 566
+				},
+				"words": "BILⅨE"
+			},
+			{
+				"probability": {
+					"variance": 0.000271,
+					"average": 0.987297,
+					"min": 0.958006
+				},
+				"location": {
+					"width": 63,
+					"top": 865,
+					"height": 16,
+					"left": 136
+				},
+				"words": "中国Chia"
+			},
+			{
+				"probability": {
+					"variance": 0.001267,
+					"average": 0.868783,
+					"min": 0.833184
+				},
+				"location": {
+					"width": 55,
+					"top": 868,
+					"height": 11,
+					"left": 560
+				},
+				"words": "栗 Chestnu"
+			},
+			{
+				"probability": {
+					"variance": 0.005695,
+					"average": 0.9559,
+					"min": 0.749745
+				},
+				"location": {
+					"width": 136,
+					"top": 886,
+					"height": 16,
+					"left": 135
+				},
+				"words": "往绩 Starts:6(1-1-1-1)"
+			},
+			{
+				"probability": {
+					"variance": 0.011208,
+					"average": 0.936346,
+					"min": 0.63295
+				},
+				"location": {
+					"width": 176,
+					"top": 886,
+					"height": 16,
+					"left": 417
+				},
+				"words": "奖金 Prie M oney RM B33000.0"
+			},
+			{
+				"probability": {
+					"variance": 0,
+					"average": 0.999535,
+					"min": 0.999273
+				},
+				"location": {
+					"width": 31,
+					"top": 902,
+					"height": 18,
+					"left": 135
+				},
+				"words": "马主"
+			},
+			{
+				"probability": {
+					"variance": 0.000282,
+					"average": 0.951887,
+					"min": 0.935093
+				},
+				"location": {
+					"width": 39,
+					"top": 938,
+					"height": 15,
+					"left": 299
+				},
+				"words": "W H89"
+			},
+			{
+				"probability": {
+					"variance": 0,
+					"average": 0.999928,
+					"min": 0.999833
+				},
+				"location": {
+					"width": 41,
+					"top": 938,
+					"height": 15,
+					"left": 568
+				},
+				"words": "华小环"
+			},
+			{
+				"probability": {
+					"variance": 0.001819,
+					"average": 0.950948,
+					"min": 0.908294
+				},
+				"location": {
+					"width": 88,
+					"top": 952,
+					"height": 16,
+					"left": 135
+				},
+				"words": "Dabu ng"
+			},
+			{
+				"probability": {
+					"variance": 0.000663,
+					"average": 0.958902,
+					"min": 0.940047
+				},
+				"location": {
+					"width": 50,
+					"top": 956,
+					"height": 13,
+					"left": 565
+				},
+				"words": "X H Hua"
+			},
+			{
+				"probability": {
+					"variance": 0.033984,
+					"average": 0.841559,
+					"min": 0.580554
+				},
+				"location": {
+					"width": 112,
+					"top": 970,
+					"height": 22,
+					"left": 134
+				},
+				"words": "新疆伊犁 xi angy ih"
+			},
+			{
+				"probability": {
+					"variance": 0.028197,
+					"average": 0.879415,
+					"min": 0.593283
+				},
+				"location": {
+					"width": 43,
+					"top": 972,
+					"height": 15,
+					"left": 473
+				},
+				"words": "公mah"
+			},
+			{
+				"probability": {
+					"variance": 0.005115,
+					"average": 0.964719,
+					"min": 0.721839
+				},
+				"location": {
+					"width": 134,
+					"top": 993,
+					"height": 15,
+					"left": 136
+				},
+				"words": "往绩 Starts:7(1-00-1)"
+			},
+			{
+				"probability": {
+					"variance": 0.02473,
+					"average": 0.907059,
+					"min": 0.497666
+				},
+				"location": {
+					"width": 176,
+					"top": 992,
+					"height": 16,
+					"left": 417
+				},
+				"words": "奖金 Prie M oney RM B20000.0"
+			},
+			{
+				"probability": {
+					"variance": 0,
+					"average": 0.999454,
+					"min": 0.999313
+				},
+				"location": {
+					"width": 32,
+					"top": 1007,
+					"height": 18,
+					"left": 135
+				},
+				"words": "马主"
+			},
+			{
+				"probability": {
+					"variance": 0.000002,
+					"average": 0.99895,
+					"min": 0.996446
+				},
+				"location": {
+					"width": 68,
+					"top": 1007,
+					"height": 18,
+					"left": 206
+				},
+				"words": "伊犁种马场"
+			},
+			{
+				"probability": {
+					"variance": 0,
+					"average": 0.999908,
+					"min": 0.999781
+				},
+				"location": {
+					"width": 45,
+					"top": 1047,
+					"height": 17,
+					"left": 136
+				},
+				"words": "绿宝石"
+			},
+			{
+				"probability": {
+					"variance": 0,
+					"average": 0.970478,
+					"min": 0.970097
+				},
+				"location": {
+					"width": 39,
+					"top": 1047,
+					"height": 15,
+					"left": 299
+				},
+				"words": "W H92"
+			},
+			{
+				"probability": {
+					"variance": 0.000193,
+					"average": 0.966272,
+					"min": 0.955049
+				},
+				"location": {
+					"width": 64,
+					"top": 1061,
+					"height": 17,
+					"left": 134
+				},
+				"words": "Ly Bao shi"
+			},
+			{
+				"probability": {
+					"variance": 0.025738,
+					"average": 0.886555,
+					"min": 0.639611
+				},
+				"location": {
+					"width": 108,
+					"top": 1082,
+					"height": 16,
+					"left": 137
+				},
+				"words": "新疆伊犁 xn jiangyin"
+			},
+			{
+				"probability": {
+					"variance": 0.042973,
+					"average": 0.829997,
+					"min": 0.491464
+				},
+				"location": {
+					"width": 43,
+					"top": 1084,
+					"height": 13,
+					"left": 474
+				},
+				"words": "公mak"
+			},
+			{
+				"probability": {
+					"variance": 0.034381,
+					"average": 0.891462,
+					"min": 0.570312
+				},
+				"location": {
+					"width": 41,
+					"top": 1083,
+					"height": 16,
+					"left": 570
+				},
+				"words": "骝Bay"
+			},
+			{
+				"probability": {
+					"variance": 0.009089,
+					"average": 0.9407,
+					"min": 0.686735
+				},
+				"location": {
+					"width": 178,
+					"top": 1102,
+					"height": 17,
+					"left": 416
+				},
+				"words": "奖金 Prize M oney RM B18000.0"
+			},
+			{
+				"probability": {
+					"variance": 0.000006,
+					"average": 0.99731,
+					"min": 0.994742
+				},
+				"location": {
+					"width": 128,
+					"top": 1152,
+					"height": 23,
+					"left": 40
+				},
+				"words": "10飞天"
+			},
+			{
+				"probability": {
+					"variance": 0,
+					"average": 0.972579,
+					"min": 0.972363
+				},
+				"location": {
+					"width": 37,
+					"top": 1155,
+					"height": 14,
+					"left": 300
+				},
+				"words": "W H75"
+			},
+			{
+				"probability": {
+					"variance": 0,
+					"average": 0.999848,
+					"min": 0.999675
+				},
+				"location": {
+					"width": 41,
+					"top": 1155,
+					"height": 15,
+					"left": 567
+				},
+				"words": "徐宏亮"
+			},
+			{
+				"probability": {
+					"variance": 0.006134,
+					"average": 0.951282,
+					"min": 0.78099
+				},
+				"location": {
+					"width": 63,
+					"top": 1188,
+					"height": 16,
+					"left": 134
+				},
+				"words": "中国Chia"
+			},
+			{
+				"probability": {
+					"variance": 0.028197,
+					"average": 0.879415,
+					"min": 0.593283
+				},
+				"location": {
+					"width": 43,
+					"top": 1188,
+					"height": 15,
+					"left": 473
+				},
+				"words": "公mah"
+			},
+			{
+				"probability": {
+					"variance": 0.020526,
+					"average": 0.931736,
+					"min": 0.525524
+				},
+				"location": {
+					"width": 139,
+					"top": 1208,
+					"height": 16,
+					"left": 136
+				},
+				"words": "往绩 Starts:120-2-2-2)"
+			},
+			{
+				"probability": {
+					"variance": 0.023955,
+					"average": 0.9082,
+					"min": 0.501048
+				},
+				"location": {
+					"width": 176,
+					"top": 1208,
+					"height": 16,
+					"left": 417
+				},
+				"words": "奖金 Prie M oney RM B30000.0"
+			},
+			{
+				"probability": {
+					"variance": 0,
+					"average": 0.999907,
+					"min": 0.999869
+				},
+				"location": {
+					"width": 39,
+					"top": 1228,
+					"height": 13,
+					"left": 205
+				},
+				"words": "赵德强"
+			},
+			{
+				"probability": {
+					"variance": 0.017828,
+					"average": 0.939505,
+					"min": 0.563799
+				},
+				"location": {
+					"width": 168,
+					"top": 1258,
+					"height": 26,
+					"left": 531
+				},
+				"words": "东方马城国际提马场"
+			}
+		]
+	}
+}

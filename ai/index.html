@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+    <style type="text/css">
+    #main {
+        width: 720px;
+        margin: 0 auto;
+        background: rgba(0, 0, 0, 0.1);
+        min-height: 1800px;
+        position: relative;
+    }
+    #main img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity: 0.2;
+    }
+    #words {
+        opacity: 0.8;
+        color: blue;
+    }
+    .word {
+        position: absolute;
+        font-size: 12px;
+    }
+    </style>
+    <script type="text/javascript" src="http://apps.bdimg.com/libs/jquery/2.1.1/jquery.min.js"></script>
+</head>
+<body>
+    <div id="main">
+        <img src="" alt="" id="img"/>
+        <div id="words"></div>
+    </div>
+
+    <script type="text/javascript">
+    function GetQueryString(name) {
+         var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)");
+         var r = window.location.search.substr(1).match(reg);
+         if(r!=null)return  unescape(r[2]); return null;
+    }
+
+    var name = GetQueryString('name') || "wuhan18030301";
+    $('#img').attr('src', name + '.jpg');
+    $.ajax({
+        url: name,
+        dataType: 'json',
+        success: function(rs) {
+            var words = rs.data.words_result;
+            words.forEach(function (item) {
+                $('#words').append('<div class="word" style="left:' + item.location.left + 'px;top:' + item.location.top + 'px">' + item.words + '</div>');
+            });
+            console.log(words);
+        }
+    });
+    </script>
+	
+</body>
+</html>
